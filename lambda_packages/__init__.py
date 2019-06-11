@@ -180,8 +180,8 @@ lambda_packages = {
     },
     'sasl': {
         'python3.6': {
-            'version': '0.2.1',
-            'path': os.path.join(PACKAGES_DIR, 'sasl', 'python3.6-sasl-0.2.1.tar.gz')
+            'version': '2.1.26',
+            'path': os.path.join(PACKAGES_DIR, 'sasl', 'python3-sasl-2.1.26.tar.gz')
         }
     }
 }
